@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 just a new text file
 
 There is some addition to the text file
+=======
+new file
+>>>>>>> 4854b34ca5ed74245e7e4d4fed32ce6b113e7dea
