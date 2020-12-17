@@ -1,1 +1,3 @@
 just a new text file
+
+There is some addition to the text file
