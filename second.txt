@@ -1,0 +1,1 @@
+some line for the second.txt in second branch
