@@ -1,1 +1,1 @@
-some text is added throught the 3rd branch
+The text inside is edited after setting the 3rd branch upstream
