@@ -1,0 +1,123 @@
+[33mcommit 0911234e87a601c2439fe5561fc8088bd7a5660e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Thu Dec 17 23:25:43 2020 +0530
+
+    commiting form local branch main
+
+[33mcommit cbc2c919531a33478a712d3a68f42f23c6bd5451[m
+Merge: 912a18e 8cd561f
+Author: Pankaj Sethi <43925958+pankajsethi888@users.noreply.github.com>
+Date:   Thu Dec 17 23:22:03 2020 +0530
+
+    Merge pull request #3 from pankajsethi888/master
+    
+    deleted test_repo_txtfile
+
+[33mcommit 8cd561f9adc035bc9277df9bff7d224d444a9a0f[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Thu Dec 17 23:20:03 2020 +0530
+
+    deleted test_repo_txtfile
+
+[33mcommit 912a18e7b57175d5efc9a3c0c209bb734aae5b01[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Thu Dec 17 22:54:14 2020 +0530
+
+    commited in second branch
+
+[33mcommit a4ec8e61c96f34e2422ec827dd6ba8bd72b60ca1[m
+Merge: 9e9b58f 4d9ebeb
+Author: Pankaj Sethi <43925958+pankajsethi888@users.noreply.github.com>
+Date:   Thu Dec 17 22:48:44 2020 +0530
+
+    Merge pull request #2 from pankajsethi888/new_main_branch
+    
+    some new changes in new_main_branch
+
+[33mcommit 4d9ebeb5f5bf3b082054e567802e189ed8e19f1c[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Thu Dec 17 22:43:18 2020 +0530
+
+    some new changes in new_main_branch
+
+[33mcommit 9e9b58f716fcc5e73d5acd4b20846c34f7bbaef0[m
+Merge: bb57ddf 2a52092
+Author: Pankaj Sethi <43925958+pankajsethi888@users.noreply.github.com>
+Date:   Thu Dec 17 22:39:02 2020 +0530
+
+    Merge pull request #1 from pankajsethi888/new_main_branch
+    
+    commit for new test_repo
+
+[33mcommit 2a520926a0fac0c87bed7367bff9feb04c72efdb[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Thu Dec 17 22:35:35 2020 +0530
+
+    commit for new test_repo
+
+[33mcommit bb57ddf6644a90deab2609b06f9b5bfbe937eff6[m
+Merge: c11fef3 4854b34
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Thu Dec 17 20:55:45 2020 +0530
+
+    just pulled and having some conflict. Lets see what happens when I commit it
+
+[33mcommit c11fef30ed1990451998a760aed8e400c4a3ad73[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Thu Dec 17 20:42:01 2020 +0530
+
+    Few changes to new.txt
+
+[33mcommit 9703433ca63919ab2ee84c06be2dd4982c8e37b1[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Thu Dec 17 18:08:32 2020 +0530
+
+    new text file in added
+
+[33mcommit 4854b34ca5ed74245e7e4d4fed32ce6b113e7dea[m
+Author: Pankaj Sethi <pankajsethi888@users.noreply.github.com>
+Date:   Sun Dec 13 03:13:12 2020 +0530
+
+    deleting the html file
+
+[33mcommit f2f2302e04cf4d7ab89ad650bc65e7b3df5f7084[m
+Author: Pankaj Sethi <pankajsethi888@users.noreply.github.com>
+Date:   Sun Dec 13 03:09:28 2020 +0530
+
+    adding an html file
+
+[33mcommit 4fd1ea479470000ffc1f9996e29a38b2f2ff240e[m
+Author: pankajsethi888 <43925958+pankajsethi888@users.noreply.github.com>
+Date:   Sun Oct 7 16:57:18 2018 +0530
+
+    changed
+
+[33mcommit da1657d12a97d8b77fe05799790ffef17dacc174[m
+Author: pankajsethi888 <43925958+pankajsethi888@users.noreply.github.com>
+Date:   Sun Oct 7 16:45:30 2018 +0530
+
+    Changed the readme files
+
+[33mcommit 51673d5d6faf590e84178905c2674035a40ec052[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Sun Oct 7 16:29:15 2018 +0530
+
+    Fourth Commit:
+
+[33mcommit 183e8a3d4f74a93d4f3428bada99e7dbff5c852c[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Sun Oct 7 16:22:07 2018 +0530
+
+    Third Commit
+
+[33mcommit cd55967098b3b1ac5dc6a04f21aa4ad2ee47f82f[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Sun Oct 7 16:16:08 2018 +0530
+
+    Second Commit
+
+[33mcommit 71d7cad28f4aa686b3630c1edc7bea0f60544cd2[m
+Author: pankajsethi888 <pankajsethi888@gmail.com>
+Date:   Sun Oct 7 15:41:45 2018 +0530
+
+    Initial Commit
