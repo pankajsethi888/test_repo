@@ -1,1 +1,4 @@
 The text inside is edited after setting the 3rd branch upstream
+now the 3rd branch is completely removed from both remote and local.
+I am editing and commiting this through the main after megering the 
+pre-existiing third_branch with main
