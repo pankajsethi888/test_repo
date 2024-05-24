@@ -1,0 +1,201 @@
+Id,name,age,email,phone,address,join_date,membership_type,owns_cc,zip,status,termination_date,fees
+100000000,Allison Hill,26,allisonhill@gmail.com,321.581.9600,"386 Shane Harbors
+Port Lindachester, MA 36922",2015-01-15,Premier,Yes,28722,Active,,124.99
+100000001,Gabrielle Davis,43,gabrielledavis@gmail.com,855-394-0781,"310 Kendra Common Apt. 164
+Reidstad, GA 49021",2018-06-09,Premier,Yes,27961,Active,,124.99
+100000002,Mia Sutton,38,miasutton@gmail.com,592-783-2764,"05641 Robin Port
+Jasonfort, MO 84760",2020-03-14,Premier,Yes,19227,Active,,124.99
+100000003,David Hoffman,68,davidhoffman@gmail.com,396-496-5328x710,"166 Rice Plaza Apt. 184
+Danielchester, GA 59971",2012-06-13,Plus,No,95147,Active,,99.99
+100000004,Deborah Mason,43,deborahmason@gmail.com,(481)248-9325,"15430 Natalie Common Apt. 718
+East Donna, OH 22144",2016-11-26,Premier,No,69664,Active,,124.99
+100000005,Jenny Lewis,33,jennylewis@gmail.com,+1-534-565-7871,"839 Adrian Station
+East Carloston, VI 43810",2013-08-07,Premier,Yes,67892,Active,,124.99
+100000006,Michael Lewis,53,michaellewis@gmail.com,(399)873-7631,"0106 Mcbride Coves Apt. 338
+Taylorburgh, KY 61138",2016-08-23,Classic,No,10381,Active,,64.99
+100000007,Scott Pierce,42,scottpierce@gmail.com,5808132677,"PSC 2606, Box 4746
+APO AP 96249",2021-11-06,Classic,No,87253,Active,,64.99
+100000008,Brittney Phillips,31,brittneyphillips@gmail.com,4982050097,"USS York
+FPO AE 78493",2013-07-20,Premier,No,89002,Active,,124.99
+100000009,Jennifer David,68,jenniferdavid@gmail.com,001-739-690-9169,"46247 Hickman Cliffs Apt. 799
+North Amandahaven, KS 17862",2018-05-01,Plus,No,09517,Active,,99.99
+100000010,Jaclyn Moore,52,jaclynmoore@gmail.com,+1-649-380-8412,"4935 Grace Walk
+Williamview, MH 07159",2013-12-18,Premier,Yes,83637,Active,,124.99
+100000011,Donald Smith,29,donaldsmith@gmail.com,001-724-427-8680x11280,"5053 Elizabeth Knoll
+Dicksonberg, IA 21800",2015-05-29,Premier,Yes,54541,Active,,124.99
+100000012,Norman Cook,65,normancook@gmail.com,(534)221-6073x37543,"4145 Frazier Ville Suite 014
+New Sydney, KS 05515",2014-03-28,Premier,No,78694,Deactivated,2020-04-22,124.99
+100000013,Nicholas Edwards,25,nicholasedwards@gmail.com,+1-581-769-3406x088,"514 Estrada Islands Suite 482
+South Elizabeth, MS 89278",2015-05-10,Premier,No,81177,Active,,124.99
+100000014,Jennifer Bass,38,jenniferbass@gmail.com,443-369-9577x7387,"34332 Brandon Mountains Apt. 769
+Lake Heather, NM 52884",2016-07-18,Premier,Yes,19843,Active,,124.99
+100000015,Abigail Potter,70,abigailpotter@gmail.com,001-716-932-8708x31727,"727 Green Gateway Suite 873
+Scottport, IA 36115",2018-02-08,Plus,Yes,42405,Active,,99.99
+100000016,Angela Hernandez,37,angelahernandez@gmail.com,(823)216-6587x6036,"0546 Medina Street Apt. 734
+Tuckerfurt, MA 88171",2023-12-13,Plus,Yes,53495,Active,,99.99
+100000017,Sara Calhoun,56,saracalhoun@gmail.com,+1-280-669-9016x272,"5564 King Common
+Smithside, AR 46371",2016-03-17,Classic,No,85716,Active,,64.99
+100000018,Tyler Williams,38,tylerwilliams@gmail.com,3335092327,"2991 Tami Coves Apt. 496
+Davidborough, CA 78108",2024-02-22,Plus,Yes,82714,Active,,99.99
+100000019,Michael Turner,23,michaelturner@gmail.com,+1-991-390-5865x18506,"726 Jessica Run Suite 987
+Grahamshire, KY 42746",2016-07-27,Classic,Yes,11860,Active,,64.99
+100000020,Jerry Christensen,55,jerrychristensen@gmail.com,001-596-750-7527,"9480 Christopher Stravenue Suite 783
+Brewerfort, NV 02761",2013-12-23,Premier,Yes,39067,Active,,124.99
+100000021,Michael Torres,66,michaeltorres@gmail.com,001-757-988-5685,"13518 James Streets Suite 498
+Tinaborough, LA 30317",2018-07-14,Classic,Yes,24020,Active,,64.99
+100000022,Michael Martinez,46,michaelmartinez@gmail.com,6089427109,"04711 Vasquez Ports Apt. 229
+Christopherbury, DE 73648",2019-06-23,Premier,No,79972,Active,,124.99
+100000023,Lisa Rowe,42,lisarowe@gmail.com,(577)649-6499x0913,"28120 Hayes Ranch
+Carterbury, LA 93163",2017-03-15,Premier,No,92642,Active,,124.99
+100000024,Andrea Hall,30,andreahall@gmail.com,493-661-8324x210,"1746 Mason Park Suite 190
+Navarroview, AK 12471",2016-04-15,Classic,No,88882,Active,,64.99
+100000025,Laura Sampson,37,laurasampson@gmail.com,001-949-702-7874x29671,"125 Steele Heights Suite 807
+West Johnnyville, WI 53477",2021-02-23,Premier,No,00651,Active,,124.99
+100000026,Kimberly Gutierrez,45,kimberlygutierrez@gmail.com,485.697.7034,"09324 Andrea Course Apt. 171
+South Sarah, LA 67199",2017-01-17,Premier,No,54960,Active,,124.99
+100000027,Veronica Sanchez,23,veronicasanchez@gmail.com,+1-826-739-8214,"USNV Hoover
+FPO AA 95665",2017-06-22,Premier,Yes,77432,Active,,124.99
+100000028,Mary Grimes,57,marygrimes@gmail.com,887.555.8867x533,"57662 Hanna Crossroad Suite 171
+Smithberg, MT 86324",2015-01-08,Premier,No,10308,Active,,124.99
+100000029,Wayne Morgan,26,waynemorgan@gmail.com,001-561-658-6578x091,"Unit 1611 Box 7240
+DPO AE 43017",2013-05-07,Plus,Yes,38953,Active,,99.99
+100000030,Jeffrey Sanchez,41,jeffreysanchez@gmail.com,(992)622-1969x37923,"4821 Landry Radial
+Daniellechester, UT 33281",2020-03-01,Premier,Yes,40100,Active,,124.99
+100000031,James Webb,18,jameswebb@gmail.com,669.259.4406,"743 Robinson Field
+Ericaberg, SC 13236",2023-01-25,Premier,No,85218,Active,,124.99
+100000032,Richard Johnson,25,richardjohnson@gmail.com,(621)445-6232x858,"5171 Karen Fork Suite 851
+Smithside, DE 60110",2018-08-31,Plus,Yes,88689,Deactivated,2020-07-24,99.99
+100000033,Deborah James,33,deborahjames@gmail.com,+1-651-837-0985x9317,"47113 Paul Land
+Matthewsberg, FM 54880",2023-07-15,Plus,No,13479,Active,,99.99
+100000034,Lisa Crosby,58,lisacrosby@gmail.com,205-837-7351x585,"1390 Kristin Gardens
+Port Anne, CA 73142",2015-12-02,Plus,No,77359,Deactivated,2024-02-27,99.99
+100000035,Sergio Murphy,43,sergiomurphy@gmail.com,(390)242-2842,"95024 David Manor Apt. 177
+Williamville, NV 66540",2016-02-29,Plus,No,81124,Active,,99.99
+100000036,Richard Camacho,52,richardcamacho@gmail.com,447.300.7661x77115,"9847 Garcia Squares Apt. 836
+Beasleychester, MA 59942",2019-03-06,Classic,Yes,55025,Active,,64.99
+100000037,Emily Edwards,48,emilyedwards@gmail.com,252-771-1116x152,"6049 Bell Ports Apt. 273
+West Meganstad, DE 37013",2022-02-28,Classic,Yes,30144,Active,,64.99
+100000038,Sarah Villegas,53,sarahvillegas@gmail.com,+1-298-409-4024x455,"20183 Barnes Junctions Apt. 545
+North Ericton, TX 11194",2017-01-08,Plus,No,58580,Active,,99.99
+100000039,Karla Ramos,44,karlaramos@gmail.com,238-515-6149x784,"34324 Murphy Avenue
+Burgessburgh, DC 50335",2021-06-15,Classic,No,92732,Active,,64.99
+100000040,Justin Barnett,60,justinbarnett@gmail.com,(816)806-0715x969,"52975 Samuel Coves Apt. 696
+South Monicamouth, IN 44156",2015-04-03,Classic,Yes,10512,Active,,64.99
+100000041,Ashley Hicks,18,ashleyhicks@gmail.com,001-955-923-1243x29212,"995 Hernandez Cliff Suite 744
+West Williamport, NH 59734",2013-01-12,Classic,Yes,07957,Active,,64.99
+100000042,Dustin Newman,27,dustinnewman@gmail.com,999-586-7980,"207 Lisa Villages Suite 182
+East Jasminemouth, NC 69018",2022-10-08,Premier,No,21308,Deactivated,2023-12-18,124.99
+100000043,Thomas Hughes,60,thomashughes@gmail.com,001-759-305-1518x64492,"4629 Kyle Lane
+Lisahaven, CO 85176",2023-10-20,Plus,Yes,55997,Active,,99.99
+100000044,Alicia Parker,23,aliciaparker@gmail.com,357.233.2214,"622 Marie Trail
+Lake Samuel, MT 48250",2023-11-25,Classic,No,94818,Active,,64.99
+100000045,Jeremy Mitchell,47,jeremymitchell@gmail.com,001-873-883-4735x9774,"Unit 3924 Box 0758
+DPO AE 93745",2021-03-03,Premier,No,16842,Active,,124.99
+100000046,Phillip Nelson,57,phillipnelson@gmail.com,826.313.7506x06853,"1522 Justin Village
+Hortonberg, WV 92977",2020-05-16,Classic,No,59300,Active,,64.99
+100000047,Susan Smith,50,susansmith@gmail.com,628.398.6143,"971 Mary Parks Apt. 893
+West Ruben, RI 46745",2016-06-26,Plus,No,75299,Active,,99.99
+100000048,Matthew Miller,42,matthewmiller@gmail.com,(718)688-8806x706,"53195 Bradley Plains Suite 277
+Port Dennis, VT 60489",2013-01-08,Plus,Yes,38963,Active,,99.99
+100000049,Rick Blackwell,29,rickblackwell@gmail.com,348-768-7403x45054,"765 Tyler Parks Suite 841
+Millerburgh, ND 39005",2017-11-09,Plus,Yes,13948,Active,,99.99
+100000050,Matthew Parker,54,matthewparker@gmail.com,+1-362-875-7059x640,"29702 Joel Rue
+Michaelshire, AZ 79811",2015-01-02,Plus,Yes,89507,Deactivated,2017-12-26,99.99
+100000051,Jacob Wallace,63,jacobwallace@gmail.com,392-285-6543,"681 Hampton Squares Suite 394
+Gonzalezberg, PR 10207",2020-01-31,Premier,No,23131,Active,,124.99
+100000052,Jill Miller,44,jillmiller@gmail.com,+1-555-418-8442x25831,"58957 Cheryl Corners Apt. 467
+Hammondshire, CA 16927",2017-10-14,Premier,No,84693,Active,,124.99
+100000053,John Holmes,20,johnholmes@gmail.com,(489)622-6801,"358 Singleton Glen Apt. 842
+Christinaland, NY 84516",2015-04-06,Classic,No,78070,Active,,64.99
+100000054,Brittany Hopkins,63,brittanyhopkins@gmail.com,001-295-990-0109x4396,"473 Evans Cliffs Apt. 276
+Marshallmouth, PA 19331",2017-09-17,Plus,Yes,94658,Active,,99.99
+100000055,William Reed,55,williamreed@gmail.com,(425)388-1537x1473,"632 Peck Stravenue Suite 327
+Jimenezport, NM 03538",2013-12-04,Plus,Yes,52044,Deactivated,2019-04-28,99.99
+100000056,Tracy Lewis,27,tracylewis@gmail.com,(400)647-9748x016,"0609 Michael Heights Apt. 687
+Marciaville, DC 13173",2019-02-04,Premier,No,49416,Active,,124.99
+100000057,Gina Mcmillan,47,ginamcmillan@gmail.com,001-923-498-6800x02578,"9526 Wheeler Parkways
+Ericksonport, NJ 02681",2018-08-29,Premier,Yes,43917,Active,,124.99
+100000058,Veronica Silva,51,veronicasilva@gmail.com,001-809-474-9930x9728,"91307 Barnes Loop
+South Warren, RI 62315",2013-06-15,Premier,Yes,93008,Active,,124.99
+100000059,Daniel Nguyen,33,danielnguyen@gmail.com,+1-578-565-2785x85497,"44375 Bailey Underpass Suite 419
+Huangfurt, GU 45738",2014-11-20,Plus,Yes,38571,Deactivated,2021-04-28,99.99
+100000060,Tyler Miller,61,tylermiller@gmail.com,547.533.8484x219,"301 Rivera Mountains
+Lake Kellitown, OH 21202",2019-04-26,Premier,No,86076,Active,,124.99
+100000061,Sherry Woods,57,sherrywoods@gmail.com,245.440.1938,"67240 Kenneth Rapids
+West Justinside, NC 65239",2014-09-04,Classic,No,66589,Active,,64.99
+100000062,Corey Rodriguez,52,coreyrodriguez@gmail.com,(474)820-5493,"61227 Boyle Avenue Suite 637
+Stephanieport, OR 95250",2022-02-20,Classic,No,01999,Active,,64.99
+100000063,Ian Young,47,ianyoung@gmail.com,+1-417-942-6841x45933,"8783 Erin Ranch Apt. 878
+Christianshire, DE 08595",2021-09-16,Premier,No,66756,Active,,124.99
+100000064,Joshua Martin,54,joshuamartin@gmail.com,971.239.7187x07286,"064 Julie Prairie Apt. 065
+New Virginialand, NJ 04660",2017-04-11,Premier,No,54092,Active,,124.99
+100000065,Chad May,44,chadmay@gmail.com,001-865-467-6618x2512,"04786 Morrow Gateway
+Reedview, ID 95531",2014-04-25,Plus,No,04723,Active,,99.99
+100000066,Jennifer Miranda,36,jennifermiranda@gmail.com,2335119079,"3830 William Highway Apt. 959
+Joelberg, TN 68822",2016-02-26,Classic,Yes,54707,Active,,64.99
+100000067,Antonio Fry,62,antoniofry@gmail.com,001-626-887-0568x5662,"34270 Faulkner Point Apt. 634
+West Deborah, NV 49138",2013-12-19,Premier,No,70707,Active,,124.99
+100000068,Cheryl Adams,64,cheryladams@gmail.com,+1-599-501-3983x73540,"USS Burgess
+FPO AA 32298",2024-03-24,Premier,No,79721,Active,,124.99
+100000069,Jennifer Allen,21,jenniferallen@gmail.com,746-578-5445x87717,"93204 Phillips Flat Suite 369
+South Andrea, TX 44746",2016-10-08,Premier,No,64545,Active,,124.99
+100000070,Maria Henry,55,mariahenry@gmail.com,(252)328-7280,"USS Duran
+FPO AA 18522",2023-02-15,Classic,Yes,30835,Active,,64.99
+100000071,Chris Robinson,60,chrisrobinson@gmail.com,250.299.7700x886,"408 Drake Fall Apt. 182
+East Christine, KS 46958",2016-12-10,Plus,Yes,52523,Active,,99.99
+100000072,Tyler Stevens,36,tylerstevens@gmail.com,934.210.1666,"76591 Jerry Ways
+Nelsonland, TX 37250",2021-08-19,Plus,Yes,74361,Active,,99.99
+100000073,Cassie Jefferson,26,cassiejefferson@gmail.com,5398261429,"2185 Connor Fort Apt. 599
+Novakmouth, AK 83616",2017-01-16,Premier,Yes,59555,Active,,124.99
+100000074,Henry Pugh MD,68,henrypughmd@gmail.com,+1-796-719-4311x42626,"7541 Christopher Meadows
+Hawkinshaven, MT 14039",2012-11-03,Plus,No,12247,Deactivated,2024-02-29,99.99
+100000075,Brandon George,26,brandongeorge@gmail.com,460-646-6183x98262,"12646 Washington Club Suite 437
+South Daniel, ME 01388",2019-02-15,Premier,No,44045,Active,,124.99
+100000076,Jamie Atkins,35,jamieatkins@gmail.com,856.792.4593x752,"356 Velasquez Lock Suite 193
+Lake Katrina, AK 95818",2020-03-31,Plus,Yes,93348,Active,,99.99
+100000077,Robert Guerra,65,robertguerra@gmail.com,867-324-3426,"688 Stephens Turnpike Suite 891
+Port Johnstad, GA 85304",2022-10-26,Classic,Yes,06307,Active,,64.99
+100000078,Maria Lucas,55,marialucas@gmail.com,001-956-710-1438x88993,"0714 Knapp Corner
+Port Sheliaberg, MI 41381",2018-03-25,Premier,Yes,60182,Deactivated,2019-09-17,124.99
+100000079,Kelly Bailey,60,kellybailey@gmail.com,777-351-4010,"382 Mark Meadow
+Hallfurt, SC 24677",2015-07-26,Plus,No,84449,Active,,99.99
+100000080,Jennifer Mclaughlin,69,jennifermclaughlin@gmail.com,379.366.0334,"5371 Lambert Overpass
+Candicefurt, OR 15473",2018-04-24,Classic,No,46636,Active,,64.99
+100000081,Lisa Cervantes,68,lisacervantes@gmail.com,001-749-491-2513x412,"296 Lopez Roads Apt. 827
+Donaldmouth, MP 59614",2022-12-06,Premier,Yes,07527,Active,,124.99
+100000082,Tiffany Washington,49,tiffanywashington@gmail.com,968.487.6767,"40438 Jackson Mount
+Dunnville, OK 15470",2016-12-13,Classic,Yes,71687,Active,,64.99
+100000083,Holly Carson,39,hollycarson@gmail.com,9786361340,"1339 Callahan Ridge
+Martinberg, WY 27583",2015-11-30,Classic,Yes,08281,Deactivated,2021-12-05,64.99
+100000084,Kim Carlson,56,kimcarlson@gmail.com,(854)249-4812,"Unit 2232 Box 5367
+DPO AE 76185",2023-02-25,Classic,No,35722,Active,,64.99
+100000085,Jaime Jones,66,jaimejones@gmail.com,001-316-884-5775x90175,"74545 Ashlee Oval Suite 001
+Smithburgh, NV 60337",2012-05-28,Plus,No,56573,Active,,99.99
+100000086,Michael Anderson,33,michaelanderson@gmail.com,+1-542-841-5415x2064,"37129 April Mills
+North Heatherville, VI 55854",2024-03-14,Premier,No,17825,Active,,124.99
+100000087,Darryl Davis,64,darryldavis@gmail.com,315-254-2622,"5326 Heath Corners
+East Karenshire, VA 50836",2018-05-17,Premier,Yes,56781,Active,,124.99
+100000088,Charles Hill,31,charleshill@gmail.com,538-599-9404,"037 Rodriguez Parks Apt. 805
+Davidshire, MT 48396",2021-09-08,Premier,No,90015,Active,,124.99
+100000089,John Archer,21,johnarcher@gmail.com,809-610-4300,"6188 Joshua Inlet Apt. 832
+Peterland, ME 92077",2019-11-02,Premier,No,96178,Active,,124.99
+100000090,Cynthia Sanchez,66,cynthiasanchez@gmail.com,(717)699-0421x02027,"410 Roman Groves
+West Jennifershire, SC 10602",2020-10-31,Classic,Yes,60164,Active,,64.99
+100000091,Amy Villarreal,28,amyvillarreal@gmail.com,(252)241-9138,"07562 Sarah Walks
+New Lindachester, IN 42680",2016-08-13,Plus,No,55060,Active,,99.99
+100000092,Erica Mckenzie,48,ericamckenzie@gmail.com,001-851-380-2380,"5187 Miguel Highway Suite 937
+Brittanyfort, WI 26115",2021-09-10,Plus,No,32630,Active,,99.99
+100000093,Timothy Johnson,65,timothyjohnson@gmail.com,+1-550-850-6413,"41038 Haynes Landing
+Villegasland, OR 13028",2020-12-28,Premier,Yes,18000,Active,,124.99
+100000094,Jennifer Vargas,42,jennifervargas@gmail.com,7629344565,"29121 Shannon Island
+Martinezstad, WI 27716",2020-01-31,Premier,No,40911,Active,,124.99
+100000095,Samuel Davis,48,samueldavis@gmail.com,+1-649-403-5213x56804,"8831 Garcia Underpass Apt. 100
+East James, MO 49291",2024-01-26,Plus,Yes,83115,Active,,99.99
+100000096,Angela Willis,51,angelawillis@gmail.com,201-937-2151,"670 Vega Extensions Suite 324
+Seanberg, AZ 80993",2022-12-05,Plus,Yes,81369,Active,,99.99
+100000097,Edward Jenkins,36,edwardjenkins@gmail.com,+1-570-214-6263,"Unit 5787 Box 5985
+DPO AA 35947",2015-06-15,Plus,No,03917,Active,,99.99
+100000098,Daniel Huang,61,danielhuang@gmail.com,001-240-578-5932x13348,"2239 Drake Square Suite 905
+New Stacy, MP 65018",2021-08-13,Plus,Yes,41009,Active,,99.99
+100000099,Andrew Brown,24,andrewbrown@gmail.com,+1-730-287-0593x252,"85156 Matthew Islands
+East Jessica, NE 84290",2020-09-06,Premier,No,85590,Active,,124.99
